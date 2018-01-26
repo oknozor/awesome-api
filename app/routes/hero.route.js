@@ -11,9 +11,9 @@ module.exports = function(app) {
     // Retrieve a single Note with heroId
     app.get('/heroes/:heroId', heroes.findOne);
 
-    // Update a Note with heroId
+    // Update a Hero with heroId
     app.put('/heroes/:heroId', heroes.update);
 
-    // Delete a Note with heroId
+    // Delete a Hero with heroId
     app.delete('/heroes/:heroId', heroes.delete);
 }
