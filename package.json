@@ -1,0 +1,22 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "tiny api for demonstration purpose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "node",
+    "mongodb"
+  ],
+  "author": "Paul Delafosse",
+  "license": "GPL-3.0 ",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
