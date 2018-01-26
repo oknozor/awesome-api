@@ -37,5 +37,11 @@ to your distro's systemd.service path:
   ```
   * Other distro : 
   TO DO 
+
+And run it: 
+
+```
+systemctl start|stop|restart tiny-api{x}.service
+```
   
 
