@@ -1,0 +1,12 @@
+[Service] 
+ExecStart=/usr/bin/node /home/okno/public_html/express-api/server.js
+Restart=always
+StandardOutput=syslog 
+SyslogIdentifier=heroes-api
+User=nobody
+Group=nobody
+Environment=/usr/bin/
+ 
+[Install] 
+WantedBy=multi-user.target
+
