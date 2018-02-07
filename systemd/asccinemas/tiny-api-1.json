@@ -1,0 +1,578 @@
+{
+  "version": 1,
+  "width": 95,
+  "height": 51,
+  "duration": 38.583783,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.139868,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.035067,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.826384,
+      "\u001b[4ms\u001b[mystemctl status tiny-api-1.service\u001b[34D"
+    ],
+    [
+      0.690169,
+      "\b\u001b[m\u001b[32ms\u001b[32mu\u001b[39mdo systemctl restart tiny-api-1.service\u001b[39D"
+    ],
+    [
+      0.669445,
+      "\b\b\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[m\u001b[39m"
+    ],
+    [
+      0.093992,
+      "\b\b\b\u001b[m\u001b[4m\u001b[32ms\u001b[m\u001b[4m\u001b[32mu\u001b[m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[m\u001b[39m"
+    ],
+    [
+      0.114204,
+      "\u001b[1C"
+    ],
+    [
+      0.116996,
+      "\u001b[4ms\u001b[m"
+    ],
+    [
+      0.185442,
+      "\b\u001b[4ms\u001b[4my\u001b[m"
+    ],
+    [
+      0.09925,
+      "\b\u001b[4my\u001b[4ms\u001b[m"
+    ],
+    [
+      0.146522,
+      "\b\u001b[4ms\u001b[4mt\u001b[m"
+    ],
+    [
+      0.11844,
+      "\b\u001b[4mt\u001b[4me\u001b[m"
+    ],
+    [
+      0.170345,
+      "\b\u001b[4me\u001b[4mm\u001b[m"
+    ],
+    [
+      0.080108,
+      "\b\b\b\b\b\b\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31my\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31mt\u001b[m\u001b[1m\u001b[31me\u001b[m\u001b[1m\u001b[31mm\u001b[1m\u001b[31mc\u001b[m\u001b[39m"
+    ],
+    [
+      0.075206,
+      "\b\u001b[1m\u001b[31mc\u001b[1m\u001b[31mt\u001b[m\u001b[39m"
+    ],
+    [
+      0.08205,
+      "\u001b[8D\u001b[m\u001b[32ms\u001b[m\u001b[32my\u001b[m\u001b[32ms\u001b[m\u001b[32mt\u001b[m\u001b[32me\u001b[m\u001b[32mm\u001b[m\u001b[32mc\u001b[m\u001b[32mt\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.104536,
+      "\u001b[1C"
+    ],
+    [
+      0.1405,
+      "\u001b[4ms\u001b[mtart mongodb             \u001b[25D"
+    ],
+    [
+      0.128489,
+      "\b\u001b[ms\u001b[1C"
+    ],
+    [
+      0.132509,
+      "\u001b[1C"
+    ],
+    [
+      0.123222,
+      "\u001b[1C"
+    ],
+    [
+      0.157016,
+      "\u001b[1C"
+    ],
+    [
+      0.060505,
+      "\u001b[1C"
+    ],
+    [
+      0.66075,
+      "\u001b[4mt\u001b[miny-api-1.service\u001b[17D"
+    ],
+    [
+      0.121247,
+      "\b\u001b[4mt\u001b[4mi\u001b[m"
+    ],
+    [
+      0.054582,
+      "\b\u001b[4mi\u001b[4mn\u001b[m"
+    ],
+    [
+      0.625816,
+      "\b\u001b[4mn\u001b[4my\u001b[4m-\u001b[4ma\u001b[4mp\u001b[4mi\u001b[4m-\u001b[4m1\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m"
+    ],
+    [
+      0.858609,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.019228,
+      "[sudo] password for okno: "
+    ],
+    [
+      1.0,
+      "\r\n"
+    ],
+    [
+      0.041375,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.026435,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4ms\u001b[mudo systemctl start tiny-api-1.service\u001b[38D"
+    ],
+    [
+      0.887535,
+      "\b\u001b[m                                       \u001b[39D"
+    ],
+    [
+      0.915875,
+      "\u001b[4ms\u001b[mudo systemctl start tiny-api-1.service\u001b[38D"
+    ],
+    [
+      0.11351,
+      "\b\u001b[4ms\u001b[4my\u001b[m\u001b[5P\u001b[11Ctus tiny-api-1.service    \u001b[37D"
+    ],
+    [
+      0.086209,
+      "\b\b\u001b[4ms\u001b[4my\u001b[4ms\u001b[m"
+    ],
+    [
+      0.103467,
+      "\b\u001b[4ms\u001b[4mt\u001b[m"
+    ],
+    [
+      0.123739,
+      "\b\u001b[4mt\u001b[4me\u001b[m"
+    ],
+    [
+      0.417163,
+      "\b\u001b[4me\u001b[4mm\u001b[m"
+    ],
+    [
+      0.544561,
+      "\b\b\b\b\b\b\u001b[m\u001b[32ms\u001b[m\u001b[32my\u001b[m\u001b[32ms\u001b[m\u001b[32mt\u001b[m\u001b[32me\u001b[m\u001b[32mm\u001b[32mc\u001b[32mt\u001b[32ml\u001b[39m\u001b[8C\u001b[4mt\u001b[4mi\u001b[4mn\u001b[4my\u001b[4m-\u001b[4ma\u001b[4mp\u001b[4mi\u001b[4m-\u001b[4m1\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m"
+    ],
+    [
+      0.222795,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.02127,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.010316,
+      "\u001b[0;1;31m●\u001b[0m tiny-api-1.service\u001b[m\r\n   Loaded: loaded (/usr/lib/systemd/system/tiny-api-1.service; disabled; vendor preset: disable\u001b[m\r\n   Active: \u001b[0;1;31mfailed\u001b[0m (Result: start-limit-hit) since Wed 2018-02-07 22:14:17 CET; 2s ago\u001b[m\r\n  Process: 18727 ExecStart=/usr/bin/node /home/okno/public_html/express-api/server.js (code=exi\u001b[m\r\n Main PID: 18727 (code=exited, status=0/SUCCESS)\u001b[m\r\n\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: tiny-api-1.service: Service hold-off time over, scheduling res\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: tiny-api-1.service: Scheduled restart job, restart counter is \u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: Stopped tiny-api-1.service.\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mtiny-api-1.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mtiny-api-1.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start tiny-api-1.service.\u001b[0m\u001b[m\r\n"
+    ],
+    [
+      5.1e-05,
+      "\u001b[7mlines 1-12/12 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 1-12/12 (END)\u001b[m\u001b[K"
+    ],
+    [
+      0.137052,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 1-12/12 (END)\u001b[m\u001b[K"
+    ],
+    [
+      0.28493,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 1-12/12 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.002417,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.03827,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4ms\u001b[mystemctl status tiny-api-1.service\u001b[34D"
+    ],
+    [
+      0.092937,
+      "\b\u001b[m\u001b[32ms\u001b[32mu\u001b[39mdo systemctl start tiny-api-1.service\u001b[37D"
+    ],
+    [
+      0.122507,
+      "\b\b\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[m\u001b[39m"
+    ],
+    [
+      0.121476,
+      "\b\b\b\u001b[m\u001b[4m\u001b[32ms\u001b[m\u001b[4m\u001b[32mu\u001b[m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[m\u001b[39m"
+    ],
+    [
+      0.095408,
+      "\u001b[1C"
+    ],
+    [
+      0.510299,
+      "\u001b[4ms\u001b[m"
+    ],
+    [
+      0.191581,
+      "\b\u001b[4ms\u001b[4my\u001b[m"
+    ],
+    [
+      0.090413,
+      "\b\u001b[4my\u001b[4ms\u001b[m"
+    ],
+    [
+      0.141698,
+      "\b\u001b[4ms\u001b[4mt\u001b[m"
+    ],
+    [
+      0.117743,
+      "\b\u001b[4mt\u001b[4me\u001b[m"
+    ],
+    [
+      0.351539,
+      "\b\u001b[4me\u001b[4mm\u001b[m"
+    ],
+    [
+      0.122075,
+      "\b\b\b\b\b\b\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31my\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31mt\u001b[m\u001b[1m\u001b[31me\u001b[m\u001b[1m\u001b[31mm\u001b[1m\u001b[31mc\u001b[m\u001b[39m"
+    ],
+    [
+      0.085387,
+      "\b\u001b[1m\u001b[31mc\u001b[1m\u001b[31mt\u001b[m\u001b[39m"
+    ],
+    [
+      0.104293,
+      "\u001b[8D\u001b[m\u001b[32ms\u001b[m\u001b[32my\u001b[m\u001b[32ms\u001b[m\u001b[32mt\u001b[m\u001b[32me\u001b[m\u001b[32mm\u001b[m\u001b[32mc\u001b[m\u001b[32mt\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.097672,
+      "\u001b[1C"
+    ],
+    [
+      0.337701,
+      "\u001b[4ms\u001b[m"
+    ],
+    [
+      0.124425,
+      "\b\u001b[ms\u001b[1C"
+    ],
+    [
+      0.159969,
+      "\u001b[1C"
+    ],
+    [
+      0.090226,
+      "\u001b[1C"
+    ],
+    [
+      0.173838,
+      "\u001b[1C"
+    ],
+    [
+      0.06793,
+      "\u001b[1C"
+    ],
+    [
+      0.410709,
+      "\u001b[4mm\u001b[mongodb           \u001b[17D"
+    ],
+    [
+      0.116589,
+      "\b\u001b[4mm\u001b[4mo\u001b[m"
+    ],
+    [
+      0.194499,
+      "\b\u001b[4mo\u001b[4mn\u001b[m"
+    ],
+    [
+      0.266377,
+      "\b\b\b\u001b[mm\u001b[mo\u001b[mn\u001b[4C.service\u001b[1m \u001b[m"
+    ],
+    [
+      0.746234,
+      "\u001b[16D\u001b[4mm\u001b[4mo\u001b[4mn\u001b[4mg\u001b[4mo\u001b[4md\u001b[4mb\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m\u001b[m \b"
+    ],
+    [
+      0.006727,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.045807,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.019694,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4m\u001b[32msudo\u001b[m\u001b[39m \u001b[32msystemctl\u001b[39m start \u001b[4mmongodb.service\u001b[m"
+    ],
+    [
+      0.365673,
+      "\u001b[36D\u001b[5P\u001b[13Ctus\u001b[m \u001b[4mt\u001b[4mi\u001b[4mn\u001b[4my\u001b[4m-\u001b[4ma\u001b[4mp\u001b[4mi\u001b[4m-\u001b[4m1\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mvice\u001b[m \b"
+    ],
+    [
+      0.690435,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.023407,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.015371,
+      "\u001b[0;1;31m●\u001b[0m tiny-api-1.service\u001b[m\r\n   Loaded: loaded (/usr/lib/systemd/system/tiny-api-1.service; disabled; vendor preset: disable\u001b[m\r\n   Active: \u001b[0;1;31mfailed\u001b[0m (Result: start-limit-hit) since Wed 2018-02-07 22:14:17 CET; 15s ago\u001b[m\r\n  Process: 18727 ExecStart=/usr/bin/node /home/okno/public_html/express-api/server.js (code=exi\u001b[m\r\n Main PID: 18727 (code=exited, status=0/SUCCESS)\u001b[m\r\n\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: tiny-api-1.service: Service hold-off time over, scheduling res\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: tiny-api-1.service: Scheduled restart job, restart counter is \u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: Stopped tiny-api-1.service.\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mtiny-api-1.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mtiny-api-1.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nFeb 07 22:14:17 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start tiny-api-1.service.\u001b[0m\u001b[m\r\n"
+    ],
+    [
+      0.00013,
+      "\u001b[7mlines 1-12/12 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.002401,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.050635,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.704313,
+      "\u001b[4ms\u001b[mystemctl status tiny-api-1.service\u001b[34D"
+    ],
+    [
+      0.11925,
+      "\b\u001b[m\u001b[32ms\u001b[32mu\u001b[39mdo systemctl start mongodb.service\u001b[34D"
+    ],
+    [
+      0.285244,
+      "\b\b\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[m\u001b[39m"
+    ],
+    [
+      0.059682,
+      "\b\b\b\u001b[m\u001b[4m\u001b[32ms\u001b[m\u001b[4m\u001b[32mu\u001b[m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[m\u001b[39m"
+    ],
+    [
+      0.133961,
+      "\u001b[1C"
+    ],
+    [
+      0.159384,
+      "\u001b[4ms\u001b[m"
+    ],
+    [
+      0.169082,
+      "\b\u001b[4ms\u001b[4my\u001b[m"
+    ],
+    [
+      0.884037,
+      "\b\u001b[4my\u001b[4ms\u001b[m"
+    ],
+    [
+      0.112525,
+      "\b\u001b[4ms\u001b[4mt\u001b[m"
+    ],
+    [
+      0.124063,
+      "\b\u001b[4mt\u001b[4me\u001b[m"
+    ],
+    [
+      0.210105,
+      "\b\u001b[4me\u001b[4mm\u001b[m"
+    ],
+    [
+      0.155723,
+      "\b\b\b\b\b\b\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31my\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31mt\u001b[m\u001b[1m\u001b[31me\u001b[m\u001b[1m\u001b[31mm\u001b[1m\u001b[31mc\u001b[m\u001b[39m"
+    ],
+    [
+      0.086673,
+      "\b\u001b[1m\u001b[31mc\u001b[1m\u001b[31mt\u001b[m\u001b[39m"
+    ],
+    [
+      0.061014,
+      "\u001b[8D\u001b[m\u001b[32ms\u001b[m\u001b[32my\u001b[m\u001b[32ms\u001b[m\u001b[32mt\u001b[m\u001b[32me\u001b[m\u001b[32mm\u001b[m\u001b[32mc\u001b[m\u001b[32mt\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.545338,
+      "\u001b[9D\u001b[1m\u001b[31ms\u001b[1m\u001b[31my\u001b[1m\u001b[31ms\u001b[1m\u001b[31mt\u001b[1m\u001b[31me\u001b[1m\u001b[31mm\u001b[1m\u001b[31mc\u001b[1m\u001b[31mt\u001b[1m\u001b[31ml\u001b[1m\u001b[31mr\u001b[m\u001b[39m                     \u001b[21D"
+    ],
+    [
+      0.108303,
+      "\b\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[m\u001b[39m"
+    ],
+    [
+      0.356624,
+      "\b\b\u001b[1m\u001b[31mr\u001b[m\u001b[39m\u001b[m\u001b[39m \b"
+    ],
+    [
+      0.132353,
+      "\u001b[10D\u001b[m\u001b[32ms\u001b[m\u001b[32my\u001b[m\u001b[32ms\u001b[m\u001b[32mt\u001b[m\u001b[32me\u001b[m\u001b[32mm\u001b[m\u001b[32mc\u001b[m\u001b[32mt\u001b[m\u001b[32ml\u001b[39m\u001b[m\u001b[39m start mongodb.service\u001b[22D"
+    ],
+    [
+      0.044872,
+      "\u001b[1C"
+    ],
+    [
+      0.131117,
+      "\u001b[4mr\u001b[mestart tiny-api-1.service\u001b[25D"
+    ],
+    [
+      0.104008,
+      "\b\u001b[4mr\u001b[4me\u001b[m"
+    ],
+    [
+      0.076189,
+      "\b\u001b[4me\u001b[4ms\u001b[m"
+    ],
+    [
+      0.166872,
+      "\b\b\b\u001b[mr\u001b[me\u001b[ms\u001b[1C"
+    ],
+    [
+      0.546929,
+      "\u001b[4C\u001b[4mt\u001b[4mi\u001b[4mn\u001b[4my\u001b[4m-\u001b[4ma\u001b[4mp\u001b[4mi\u001b[4m-\u001b[4m1\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m"
+    ],
+    [
+      0.216268,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.03112,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.027896,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4m\u001b[32msudo\u001b[m\u001b[39m \u001b[32msystemctl\u001b[39m restart \u001b[4mtiny-api-1.service\u001b[m"
+    ],
+    [
+      0.202823,
+      "\u001b[41D\u001b[5P\u001b[10Cstatus\u001b[P\u001b[19C      \b\b\b\b\b\b"
+    ],
+    [
+      0.94558,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.021569,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.011096,
+      "\u001b[0;1;32m●\u001b[0m tiny-api-1.service\u001b[m\r\n   Loaded: loaded (/usr/lib/systemd/system/tiny-api-1.service; disabled; vendor preset: disable\u001b[m\r\n   Active: \u001b[0;1;32mactive (running)\u001b[0m since Wed 2018-02-07 22:14:41 CET; 3s ago\u001b[m\r\n Main PID: 18798 (node)\u001b[m\r\n    Tasks: 10 (limit: 4915)\u001b[m\r\n   CGroup: /system.slice/tiny-api-1.service\u001b[m\r\n           └─18798 /usr/bin/node /home/okno/public_html/express-api/server.js\u001b[m\r\n\u001b[m\r\nFeb 07 22:14:41 FRL- systemd[1]: Started tiny-api-1.service.\u001b[m\r\nFeb 07 22:14:41 FRL- heroes-api[18798]: Server is listening on port 3000\u001b[m\r\nFeb 07 22:14:41 FRL- heroes-api[18798]: Successfully connected to the database\u001b[m\r\n"
+    ],
+    [
+      6.7e-05,
+      "\u001b[7mlines 1-11/11 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 1-11/11 (END)\u001b[m\u001b[K"
+    ],
+    [
+      0.175683,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 1-11/11 (END)\u001b[m\u001b[K"
+    ],
+    [
+      0.19231,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7mlines 1-11/11 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.002502,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.049084,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4mh\u001b[mttp localhost:3000/heroes\u001b[25D"
+    ],
+    [
+      0.081137,
+      "\b\u001b[4mh\u001b[4mt\u001b[m"
+    ],
+    [
+      0.114512,
+      "\b\b\u001b[4mh\u001b[4mt\u001b[4mt\u001b[m"
+    ],
+    [
+      0.061333,
+      "\b\b\b\u001b[m\u001b[32mh\u001b[m\u001b[32mt\u001b[m\u001b[32mt\u001b[32mp\u001b[39m"
+    ],
+    [
+      0.134564,
+      "\u001b[1C"
+    ],
+    [
+      0.900244,
+      "\u001b[21C"
+    ],
+    [
+      0.643234,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.270261,
+      "\u001b[34mHTTP\u001b[39;49;00m/\u001b[34m1.1\u001b[39;49;00m \u001b[34m200\u001b[39;49;00m \u001b[36mOK\u001b[39;49;00m\r\n\u001b[36mConnection\u001b[39;49;00m: \u001b[33mkeep-alive\u001b[39;49;00m\r\n\u001b[36mContent-Length\u001b[39;49;00m: \u001b[33m1429\u001b[39;49;00m\r\n\u001b[36mContent-Type\u001b[39;49;00m: \u001b[33mapplication/json; charset=utf-8\u001b[39;49;00m\r\n\u001b[36mDate\u001b[39;49;00m: \u001b[33mWed, 07 Feb 2018 21:14:52 GMT\u001b[39;49;00m\r\n\u001b[36mETag\u001b[39;49;00m: \u001b[33mW/\"595-xtOHIu535v/NlG3GWaL8fQimbeQ\"\u001b[39;49;00m\r\n\u001b[36mX-Powered-By\u001b[39;49;00m: \u001b[33mExpress\u001b[39;49;00m\r\r\n\r\r\n"
+    ],
+    [
+      0.002546,
+      "[\r\n    {\r\n        \u001b[34;01m\"_id\"\u001b[39;49;00m: \u001b[33m\"5a6b85a67082b66f31caa4b3\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"Richard Stallman\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"story\"\u001b[39;49;00m: \u001b[33m\"Richard Matthew Stallman (born March 16, 1953), often known by his initials, rms, is an American free software movement activist and programmer. He campaigns for software to be distributed in a manner such that its users receive the freedoms to use, study, discacay that software. Software that ensures these freedoms is termed free software. Stallman launched the GNU Project, founded the Free Software Foundation, developed the GNU Compiler Collection and GNU Emacs, and wrote the GNU General Public License.\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"title\"\u001b[39;49;00m: \u001b[33m\"The Genius Guru\"\u001b[39;49;00m\r\n    },\r\n    {\r\n        \u001b[34;01m\"_id\"\u001b[39;49;00m: \u001b[33m\"5a6b85a67082b66f31caa4b4\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"Linus Torvald\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"story\"\u001b[39;49;00m: \u001b[33m\"Linus Benedict Torva"
+    ],
+    [
+      4.9e-05,
+      "lds (born December 28, 1969) is a Finnish-American software engineer who is the creator, and for a long time, principal developer of the Linux kernel, which became the kernel for operating systems such as the Linux operating system, Android, and Chrome OS. He also created the distributed revision control system Git and the diving logging and planning software Subsurface. He was honored, along with Shinya Yamanaka, with the 2012 Millennium Technology Prize by the Technology Academy Finland 'in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel'. He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award.\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"title\"\u001b[39;49;00m: \u001b[33m\"The Great Archmage\"\u001b[39;49;00m\r\n    }\r\n]\r\n\r\n"
+    ],
+    [
+      0.034079,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.017786,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}

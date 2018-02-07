@@ -1,0 +1,1258 @@
+{
+  "version": 1,
+  "width": 95,
+  "height": 51,
+  "duration": 72.425277,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.128651,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.030191,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33m~\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.51771,
+      "\u001b[4mc\u001b[md /lib/systemd/system\u001b[21D"
+    ],
+    [
+      0.056554,
+      "\b\u001b[m\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.066454,
+      "\u001b[1C"
+    ],
+    [
+      1.0,
+      "\u001b[4m/\u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4ms\u001b[4my\u001b[4ms\u001b[4mt\u001b[4me\u001b[4mm\u001b[4md\u001b[4m/\u001b[4ms\u001b[4my\u001b[4ms\u001b[4mt\u001b[4me\u001b[4mm\u001b[m"
+    ],
+    [
+      0.580329,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000428,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.040247,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4ms\u001b[mudo systemctl stop tiny-api-1.service\u001b[37D"
+    ],
+    [
+      0.095051,
+      "\b\u001b[m\u001b[32ms\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.117632,
+      "\b\b\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[m\u001b[39m"
+    ],
+    [
+      0.129602,
+      "\b\b\b\u001b[m\u001b[4m\u001b[32ms\u001b[m\u001b[4m\u001b[32mu\u001b[m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[m\u001b[39m"
+    ],
+    [
+      0.070371,
+      "\u001b[1C"
+    ],
+    [
+      1.0,
+      "\u001b[4mv\u001b[mim\u001b[11P\u001b[19C           \u001b[32D"
+    ],
+    [
+      0.086467,
+      "\b\u001b[m\u001b[32mv\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.05409,
+      "\b\u001b[32mi\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.032627,
+      "\u001b[1C"
+    ],
+    [
+      0.823192,
+      "\u001b[4mt\u001b[4mi\u001b[4mn\u001b[4my\u001b[4m-\u001b[4ma\u001b[4mp\u001b[4mi\u001b[4m-\u001b[4m1\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m"
+    ],
+    [
+      0.502295,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.010885,
+      "[sudo] password for okno: "
+    ],
+    [
+      1.0,
+      "\r\n"
+    ],
+    [
+      0.047782,
+      "\u001b[?1000h\u001b[?2004h\u001b7\u001b[?47h\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.000447,
+      "\u001b[1;51r\u001b[?12h\u001b[?12l\u001b[29m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[51;1H\"tiny-api-1.service\" 13L, 258C"
+    ],
+    [
+      0.002608,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H\u001b[>c\u001b]10;?\u0007\u001b]11;?\u0007"
+    ],
+    [
+      0.000803,
+      "\u001b[1;1H\u001b[35m\u001b[46m[\u001b[m\u001b[35mService\u001b[m\u001b[35m\u001b[46m]\u001b[m\r\n\u001b[32mExecStart=\u001b[m/usr/bin/node /home/okno/public_html/express-api/server.js\r\n\u001b[32mRequire=\u001b[mmongodb.service\r\n\u001b[32mRestart=\u001b[malways\r\n\u001b[32mStandardOutput=\u001b[msyslog\r\n\u001b[32mSyslogIdentifier=\u001b[mheroes-api\r\n\u001b[32mUser=\u001b[mnobody\r\n\u001b[32mGroup=\u001b[mnobody\r\n\u001b[32mEnvironment=\u001b[m/usr/bin/\r\n\r\n\u001b[35m[Install]\u001b[m\r\n\u001b[32mWantedBy=\u001b[mmulti-user.target\r\n\r\n\u001b[1m\u001b[34m~                                                                                              \u001b[15;1H~                                                                                              \u001b[16;1H~                                                                                              \u001b[17;1H~                                                                                              \u001b[18;1H~                                                                                              \u001b[19;1H~                                                                                              \u001b[20;1H~               "
+    ],
+    [
+      3.7e-05,
+      "                                                                               \u001b[21;1H~                                                                                              \u001b[22;1H~                                                                                              \u001b[23;1H~                                                                                              \u001b[24;1H~                                                                                              \u001b[25;1H~                                                                                              \u001b[26;1H~                                                                                              \u001b[27;1H~                                                                                              \u001b[28;1H~                                                                                              \u001b[29;1H~                                                                                              \u001b[30;1H~                  "
+    ],
+    [
+      2e-05,
+      "                                                                            \u001b[31;1H~                                                                                              \u001b[32;1H~                                                                                              \u001b[33;1H~                                                                                              \u001b[34;1H~                                                                                              \u001b[35;1H~                                                                                              \u001b[36;1H~                                                                                              \u001b[37;1H~                                                                                              \u001b[38;1H~                                                                                              \u001b[39;1H~                                                                                              \u001b[40;1H~                      "
+    ],
+    [
+      1.7e-05,
+      "                                                                        \u001b[41;1H~                                                                                              \u001b[42;1H~                                                                                              \u001b[43;1H~                                                                                              \u001b[44;1H~                                                                                              \u001b[45;1H~                                                                                              \u001b[46;1H~                                                                                              \u001b[47;1H~                                                                                              \u001b[48;1H~                                                                                              \u001b[49;1H~                                                                                              \u001b[50;1H~                          "
+    ],
+    [
+      2.3e-05,
+      "                                                                    \u001b[m\u001b[51;78H1,1\u001b[11CAll\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.005469,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      0.00108,
+      "\u001b[?1000l\u001b[?1006h\u001b[?1002h\u001b[?1006l\u001b[?1002l\u001b[?1006h\u001b[?1002h\u001b[29m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[1m\u001b[31m\u001b[46m[\u001b[m\u001b[1m\u001b[31mService\u001b[m\u001b[1m\u001b[31m\u001b[46m]\u001b[m\r\n\u001b[1m\u001b[32mExecStart=\u001b[m/usr/bin/node /home/okno/public_html/express-api/server.js\r\n\u001b[1m\u001b[32mRequire=\u001b[mmongodb.service\r\n\u001b[1m\u001b[32mRestart=\u001b[malways\r\n\u001b[1m\u001b[32mStandardOutput=\u001b[msyslog\r\n\u001b[1m\u001b[32mSyslogIdentifier=\u001b[mheroes-api\r\n\u001b[1m\u001b[32mUser=\u001b[mnobody\r\n\u001b[1m\u001b[32mGroup=\u001b[mnobody\r\n\u001b[1m\u001b[32mEnvironment=\u001b[m/usr/bin/\r\n\r\n\u001b[1m\u001b[31m[Install]\u001b[m\r\n\u001b[1m\u001b[32mWantedBy=\u001b[mmulti-user.target\r\n\r\n\u001b[1m\u001b[34m~                                                                                              \u001b[15;1H~                                                                                              \u001b[16;1H~                                                                                              \u001b[17;1H~                                                                                              \u001b[18;1H~                                                                                          "
+    ],
+    [
+      2e-05,
+      "    \u001b[19;1H~                                                                                              \u001b[20;1H~                                                                                              \u001b[21;1H~                                                                                              \u001b[22;1H~                                                                                              \u001b[23;1H~                                                                                              \u001b[24;1H~                                                                                              \u001b[25;1H~                                                                                              \u001b[26;1H~                                                                                              \u001b[27;1H~                                                                                              \u001b[28;1H~                                                                                             "
+    ],
+    [
+      5.7e-05,
+      " \u001b[29;1H~                                                                                              \u001b[30;1H~                                                                                              \u001b[31;1H~                                                                                              \u001b[32;1H~                                                                                              \u001b[33;1H~                                                                                              \u001b[34;1H~                                                                                              \u001b[35;1H~                                                                                              \u001b[36;1H~                                                                                              \u001b[37;1H~                                                                                              \u001b[38;1H~                                                                                              \u001b[3"
+    ],
+    [
+      2.4e-05,
+      "9;1H~                                                                                              \u001b[40;1H~                                                                                              \u001b[41;1H~                                                                                              \u001b[42;1H~                                                                                              \u001b[43;1H~                                                                                              \u001b[44;1H~                                                                                              \u001b[45;1H~                                                                                              \u001b[46;1H~                                                                                              \u001b[47;1H~                                                                                              \u001b[48;1H~                                                                                              \u001b[49;1H"
+    ],
+    [
+      2e-05,
+      "~                                                                                              \u001b[50;1H~                                                                                              \u001b[m\u001b[51;78H1,1\u001b[11CAll\r\"tiny-api-1.service\" 13L, 258C\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      1.0,
+      "\u001b[?25l\u001b[51;68HO\u001b[1;1H"
+    ],
+    [
+      0.000108,
+      "\u001b[51;68H \u001b[1;1H"
+    ],
+    [
+      0.000133,
+      "\u001b[51;1H\u001b[1m-- INSERT --\u001b[m\u001b[51;13H\u001b[K\u001b[51;78H1,1\u001b[11CAll"
+    ],
+    [
+      0.001124,
+      "\u001b[1;50r\u001b[1;1H\u001b[L\u001b[1;51r\u001b[2;1H\u001b[1m\u001b[31m[Service]\u001b[m "
+    ],
+    [
+      0.000991,
+      "\u001b[51;78H\u001b[K\u001b[51;78H1,1\u001b[11CAll\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      1.0,
+      "\u001b[?25l\u001b[1m\u001b[31m[\u001b[m\u001b[51;80H2\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.478485,
+      "\u001b[?25l\u001b[1m\u001b[31mU\u001b[m\u001b[51;80H3\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.227774,
+      "\u001b[?25l\u001b[1m\u001b[31mn\u001b[m\u001b[51;80H4\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.089967,
+      "\u001b[?25l\u001b[1m\u001b[31mi\u001b[m\u001b[51;80H5\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.172562,
+      "\u001b[?25l\u001b[1m\u001b[31mt\u001b[m\u001b[51;80H6\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      1.0,
+      "\u001b[?25l\u001b[1m\u001b[31m]\u001b[m\r\u001b[1m\u001b[31m\u001b[46m[\u001b[m\u001b[1m\u001b[31mUnit\u001b[m\u001b[1m\u001b[31m\u001b[46m]\u001b[m\u001b[51;80H7\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.451175,
+      "\u001b[?25l\u001b[2;50r\u001b[2;1H\u001b[L\u001b[1;51r"
+    ],
+    [
+      0.001232,
+      "\u001b[51;78H\u001b[K\u001b[51;78H2,1\u001b[11CAll\u001b[1;1H\u001b[1m\u001b[31m[Unit]\r\n\u001b[?25h"
+    ],
+    [
+      0.968813,
+      "\u001b[?25l\u001b[mD\u001b[51;80H2\u001b[2;2H\u001b[?25h"
+    ],
+    [
+      0.21681,
+      "\u001b[?25le\u001b[51;80H3\u001b[2;3H\u001b[?25h"
+    ],
+    [
+      0.19433,
+      "\u001b[?25ls\u001b[51;80H4\u001b[2;4H\u001b[?25h"
+    ],
+    [
+      0.135507,
+      "\u001b[?25lc\u001b[51;80H5\u001b[2;5H\u001b[?25h"
+    ],
+    [
+      0.153641,
+      "\u001b[?25lr\u001b[51;80H6\u001b[2;6H\u001b[?25h"
+    ],
+    [
+      0.422388,
+      "\u001b[?25li\u001b[51;80H7\u001b[2;7H\u001b[?25h"
+    ],
+    [
+      0.271327,
+      "\u001b[?25lp\u001b[51;80H8\u001b[2;8H\u001b[?25h"
+    ],
+    [
+      0.2019,
+      "\u001b[?25lt\u001b[51;80H9\u001b[2;9H\u001b[?25h"
+    ],
+    [
+      0.096013,
+      "\u001b[?25li\u001b[51;80H10\u001b[2;10H\u001b[?25h"
+    ],
+    [
+      0.069138,
+      "\u001b[?25lo\u001b[51;81H1\u001b[2;11H\u001b[?25h"
+    ],
+    [
+      0.172837,
+      "\u001b[?25ln\u001b[51;81H2\u001b[2;12H\u001b[?25h"
+    ],
+    [
+      0.786804,
+      "\u001b[?25l\r\u001b[1m\u001b[32mDescription=\u001b[m\u001b[51;81H3\u001b[2;13H\u001b[?25h"
+    ],
+    [
+      0.572011,
+      "\u001b[?25l\u001b[51;81H4\u001b[2;14H\u001b[?25h"
+    ],
+    [
+      0.163592,
+      "\u001b[?25lM\u001b[51;81H5\u001b[2;15H\u001b[?25h"
+    ],
+    [
+      0.319736,
+      "\u001b[?25ly\u001b[51;81H6\u001b[2;16H\u001b[?25h"
+    ],
+    [
+      0.716784,
+      "\u001b[?25l\u001b[51;81H7\u001b[2;17H\u001b[?25h"
+    ],
+    [
+      0.232529,
+      "\u001b[?25la\u001b[51;81H8\u001b[2;18H\u001b[?25h"
+    ],
+    [
+      0.535548,
+      "\u001b[?25lw\u001b[51;81H9\u001b[2;19H\u001b[?25h"
+    ],
+    [
+      0.141383,
+      "\u001b[?25le\u001b[51;80H20\u001b[2;20H\u001b[?25h"
+    ],
+    [
+      0.378777,
+      "\u001b[?25ls\u001b[51;81H1\u001b[2;21H\u001b[?25h"
+    ],
+    [
+      0.159038,
+      "\u001b[?25lo\u001b[51;81H2\u001b[2;22H\u001b[?25h"
+    ],
+    [
+      0.188121,
+      "\u001b[?25lm\u001b[51;81H3\u001b[2;23H\u001b[?25h"
+    ],
+    [
+      0.125879,
+      "\u001b[?25le\u001b[51;81H4\u001b[2;24H\u001b[?25h"
+    ],
+    [
+      0.15159,
+      "\u001b[?25l\u001b[51;81H5\u001b[2;25H\u001b[?25h"
+    ],
+    [
+      0.815971,
+      "\u001b[?25lP\u001b[51;81H6\u001b[2;26H\u001b[?25h"
+    ],
+    [
+      0.017008,
+      "\u001b[?25lA\u001b[51;81H7\u001b[2;27H\u001b[?25h"
+    ],
+    [
+      0.182287,
+      "\u001b[?25lI\u001b[51;81H8\u001b[2;28H\u001b[?25h"
+    ],
+    [
+      0.479484,
+      "\u001b[?25l\u001b[2;27H\u001b[K\u001b[51;81H7\u001b[2;27H\u001b[?25h"
+    ],
+    [
+      0.171342,
+      "\u001b[?25l\u001b[2;26H\u001b[K\u001b[51;81H6\u001b[2;26H\u001b[?25h"
+    ],
+    [
+      0.118125,
+      "\u001b[?25l\u001b[2;25H\u001b[K\u001b[51;81H5\u001b[2;25H\u001b[?25h"
+    ],
+    [
+      0.231892,
+      "\u001b[?25lA\u001b[51;81H6\u001b[2;26H\u001b[?25h"
+    ],
+    [
+      0.099952,
+      "\u001b[?25lP\u001b[51;81H7\u001b[2;27H\u001b[?25h"
+    ],
+    [
+      0.063906,
+      "\u001b[?25lI\u001b[51;81H8\u001b[2;28H\u001b[?25h"
+    ],
+    [
+      0.477879,
+      "\u001b[?25l\u001b[3;50r\u001b[3;1H\u001b[L\u001b[1;51r"
+    ],
+    [
+      0.001181,
+      "\u001b[51;78H\u001b[K\u001b[51;78H3,1\u001b[11CAll\u001b[3;1H\u001b[?25h"
+    ],
+    [
+      1.0,
+      "\u001b[?25lW\u001b[51;80H2\u001b[3;2H\u001b[?25h"
+    ],
+    [
+      0.182205,
+      "\u001b[?25la\u001b[51;80H3\u001b[3;3H\u001b[?25h"
+    ],
+    [
+      0.19685,
+      "\u001b[?25ln\u001b[51;80H4\u001b[3;4H\u001b[?25h"
+    ],
+    [
+      0.529781,
+      "\u001b[?25lt\u001b[51;80H5\u001b[3;5H\u001b[?25h"
+    ],
+    [
+      0.088203,
+      "\u001b[?25ls\u001b[51;80H6\u001b[3;6H\u001b[?25h"
+    ],
+    [
+      0.122226,
+      "\u001b[?25l\u001b[51;80H7\u001b[3;7H\u001b[?25h"
+    ],
+    [
+      0.377785,
+      "\u001b[?25l\u001b[51;80H6\u001b[3;6H\u001b[?25h"
+    ],
+    [
+      0.642598,
+      "\u001b[?25l\r\u001b[1m\u001b[32mWants=\u001b[m\u001b[51;80H7\u001b[3;7H\u001b[?25h"
+    ],
+    [
+      1.0,
+      "\u001b[?25lm\u001b[51;80H8\u001b[3;8H\u001b[?25h"
+    ],
+    [
+      0.476606,
+      "\u001b[?25l\u001b[3;7H\u001b[K\u001b[51;80H7\u001b[3;7H\u001b[?25h"
+    ],
+    [
+      0.09397,
+      "\u001b[?25l\u001b[51;80H8\u001b[3;8H\u001b[?25h"
+    ],
+    [
+      0.147954,
+      "\u001b[?25lm\u001b[51;80H9\u001b[3;9H\u001b[?25h"
+    ],
+    [
+      0.072462,
+      "\u001b[?25lo\u001b[51;80H10\u001b[3;10H\u001b[?25h"
+    ],
+    [
+      0.210235,
+      "\u001b[?25ln\u001b[51;81H1\u001b[3;11H\u001b[?25h"
+    ],
+    [
+      0.266392,
+      "\u001b[?25lg\u001b[51;81H2\u001b[3;12H\u001b[?25h"
+    ],
+    [
+      0.10663,
+      "\u001b[?25lo\u001b[51;81H3\u001b[3;13H\u001b[?25h"
+    ],
+    [
+      0.292792,
+      "\u001b[?25ld\u001b[51;81H4\u001b[3;14H\u001b[?25h"
+    ],
+    [
+      0.704116,
+      "\u001b[?25lb\u001b[51;81H5\u001b[3;15H\u001b[?25h"
+    ],
+    [
+      0.389534,
+      "\u001b[?25l.\u001b[51;81H6\u001b[3;16H\u001b[?25h"
+    ],
+    [
+      0.173957,
+      "\u001b[?25ls\u001b[51;81H7\u001b[3;17H\u001b[?25h"
+    ],
+    [
+      0.081289,
+      "\u001b[?25le\u001b[51;81H8\u001b[3;18H\u001b[?25h"
+    ],
+    [
+      0.119206,
+      "\u001b[?25lr\u001b[51;81H9\u001b[3;19H\u001b[?25h"
+    ],
+    [
+      0.973915,
+      "\u001b[?25lv\u001b[51;80H20\u001b[3;20H\u001b[?25h"
+    ],
+    [
+      0.164988,
+      "\u001b[?25li\u001b[51;81H1\u001b[3;21H\u001b[?25h"
+    ],
+    [
+      0.053096,
+      "\u001b[?25lc\u001b[51;81H2\u001b[3;22H\u001b[?25h"
+    ],
+    [
+      0.131098,
+      "\u001b[?25le\u001b[51;81H3\u001b[3;23H\u001b[?25h"
+    ],
+    [
+      0.717352,
+      "\u001b[?25l\u001b[4;50r\u001b[4;1H\u001b[L\u001b[1;51r"
+    ],
+    [
+      0.001109,
+      "\u001b[51;78H\u001b[K\u001b[51;78H4,1\u001b[11CAll\u001b[4;1H\u001b[?25h"
+    ],
+    [
+      0.969724,
+      "\u001b[51;1H\u001b[K\u001b[4;1H\u001b[?25l\u001b[51;68H^[\u001b[4;1H"
+    ],
+    [
+      0.100418,
+      "\u001b[51;68H  \u001b[4;1H\u001b[51;78H4,0-1\u001b[9CAll\u001b[4;1H\u001b[?25h"
+    ],
+    [
+      0.759708,
+      "\u001b[?25l\u001b[51;68H:\u001b[4;1H\u001b[51;68H\u001b[K\u001b[51;1H:"
+    ],
+    [
+      8.8e-05,
+      "\u001b[?2004h\u001b[?25h"
+    ],
+    [
+      0.205325,
+      "w\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.440074,
+      "\u001b[?25l \u001b[?25h"
+    ],
+    [
+      0.393188,
+      "t\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.167731,
+      "i\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.077674,
+      "n"
+    ],
+    [
+      0.000134,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.267236,
+      "y\u001b[?25l\u001b[?25h"
+    ],
+    [
+      1.0,
+      "-\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.174864,
+      "a\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.194123,
+      "p\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.079082,
+      "i\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.68124,
+      "-"
+    ],
+    [
+      0.000106,
+      "\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.788373,
+      "2\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.768934,
+      ".\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.19805,
+      "s\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.101326,
+      "e\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.11426,
+      "r\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.23498,
+      "v\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.298745,
+      "i\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.052799,
+      "c\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.794605,
+      "e\u001b[?25l\u001b[?25h"
+    ],
+    [
+      1.0,
+      "\r"
+    ],
+    [
+      0.000574,
+      "\u001b[?25l\"tiny-api-2.service\" "
+    ],
+    [
+      0.008672,
+      "[New] 17L, 317C written"
+    ],
+    [
+      0.000102,
+      "\u001b[4;1H\u001b[51;78H4,0-1\u001b[9CAll\u001b[51;78H\u001b[K\u001b[51;78H4,0-1\u001b[9CAll\u001b[4;1H\u001b[?25h"
+    ],
+    [
+      1.0,
+      "\u001b[?25l\u001b[51;68H:\u001b[4;1H"
+    ],
+    [
+      0.000111,
+      "\u001b[51;1H\u001b[K\u001b[51;1H:\u001b[?2004h\u001b[?25h"
+    ],
+    [
+      0.099905,
+      "q\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.844472,
+      "!\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.686749,
+      "\r"
+    ],
+    [
+      0.00208,
+      "\u001b[?25l\u001b[?1006l\u001b[?1002l\u001b[?2004l\u001b[51;1H\u001b[K\u001b[51;1H\u001b[?2004l\u001b[?1l\u001b>\u001b[?25h\u001b[2J\u001b[?47l\u001b8"
+    ],
+    [
+      0.004596,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.043933,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4ms\u001b[mudo vim tiny-api-1.service\u001b[26D"
+    ],
+    [
+      0.127301,
+      "\b\u001b[m\u001b[32ms\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.14781,
+      "\b\b\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[m\u001b[39m"
+    ],
+    [
+      0.064782,
+      "\b\b\b\u001b[m\u001b[4m\u001b[32ms\u001b[m\u001b[4m\u001b[32mu\u001b[m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[m\u001b[39m"
+    ],
+    [
+      0.135575,
+      "\u001b[1C"
+    ],
+    [
+      1.0,
+      "\u001b[4ms\u001b[mystemctl stop tiny-api-1.service\u001b[32D"
+    ],
+    [
+      0.104831,
+      "\b\u001b[4ms\u001b[4my\u001b[m"
+    ],
+    [
+      0.092165,
+      "\b\u001b[4my\u001b[4ms\u001b[m"
+    ],
+    [
+      0.150254,
+      "\b\u001b[4ms\u001b[4mt\u001b[m"
+    ],
+    [
+      0.883258,
+      "\b\b\b\b\u001b[m\u001b[32ms\u001b[m\u001b[32my\u001b[m\u001b[32ms\u001b[m\u001b[32mt\u001b[32me\u001b[32mm\u001b[32mc\u001b[32mt\u001b[32ml\u001b[39m\u001b[6C\u001b[4mt\u001b[4mi\u001b[4mn\u001b[4my\u001b[4m-\u001b[4ma\u001b[4mp\u001b[4mi\u001b[4m-\u001b[4m1\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m"
+    ],
+    [
+      0.537212,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.040119,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.020148,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.65095,
+      "\u001b[4m\u001b[32msudo\u001b[m\u001b[39m \u001b[32msystemctl\u001b[39m stop \u001b[4mtiny-api-1.service\u001b[m"
+    ],
+    [
+      0.424104,
+      "\b\b\u001b[4mc\u001b[m\u001b[me\b"
+    ],
+    [
+      0.502798,
+      "\b\b\u001b[4mi\u001b[m\u001b[mc\b"
+    ],
+    [
+      0.024312,
+      "\b\b\u001b[4mv\u001b[m\u001b[mi\b"
+    ],
+    [
+      0.030157,
+      "\b\b\u001b[4mr\u001b[m\u001b[mv\b"
+    ],
+    [
+      0.03741,
+      "\b\b\u001b[4me\u001b[m\u001b[mr\b"
+    ],
+    [
+      0.032806,
+      "\b\b\u001b[4ms\u001b[m\u001b[me\b"
+    ],
+    [
+      0.02154,
+      "\b\b\u001b[4m.\u001b[m\u001b[ms\b"
+    ],
+    [
+      0.044858,
+      "\b\b\u001b[4m1\u001b[m\u001b[m.\b"
+    ],
+    [
+      0.018688,
+      "\b\b\u001b[4m-\u001b[m\u001b[m1\b"
+    ],
+    [
+      0.028646,
+      "\b\b\u001b[4mi\u001b[m\u001b[m-\b"
+    ],
+    [
+      0.028874,
+      "\b\b\u001b[4mp\u001b[m\u001b[mi\b"
+    ],
+    [
+      0.031988,
+      "\b\b\u001b[4ma\u001b[m\u001b[mp\b"
+    ],
+    [
+      0.028764,
+      "\b\b\u001b[4m-\u001b[m\u001b[ma\b"
+    ],
+    [
+      0.029839,
+      "\b\b\u001b[4my\u001b[m\u001b[m-\b"
+    ],
+    [
+      0.033249,
+      "\b\b\u001b[4mn\u001b[m\u001b[my\b"
+    ],
+    [
+      0.034262,
+      "\b\b\u001b[4mi\u001b[m\u001b[mn\b"
+    ],
+    [
+      0.199231,
+      "\b\b\u001b[4mt\u001b[m\u001b[mi\b"
+    ],
+    [
+      0.140509,
+      "\b\u001b[mt\b"
+    ],
+    [
+      0.586494,
+      "\u001b[4mm\u001b[mongodb.service   \u001b[17D"
+    ],
+    [
+      0.075207,
+      "\b\u001b[4mm\u001b[4mo\u001b[m"
+    ],
+    [
+      0.192819,
+      "\b\u001b[4mo\u001b[4mn\u001b[m"
+    ],
+    [
+      0.357974,
+      "\b\u001b[4mn\u001b[4mg\u001b[m"
+    ],
+    [
+      0.313013,
+      "\b\u001b[4mg\u001b[4mo\u001b[4md\u001b[4mb\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m"
+    ],
+    [
+      0.22757,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.038831,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.019065,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4ms\u001b[mudo systemctl stop mongodb.service\u001b[34D"
+    ],
+    [
+      0.129732,
+      "\b\u001b[m\u001b[32ms\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.136415,
+      "\b\b\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[m\u001b[39m"
+    ],
+    [
+      0.113544,
+      "\b\b\b\u001b[m\u001b[4m\u001b[32ms\u001b[m\u001b[4m\u001b[32mu\u001b[m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[m\u001b[39m"
+    ],
+    [
+      1.0,
+      "\u001b[1C"
+    ],
+    [
+      0.166595,
+      "\u001b[4ms\u001b[m"
+    ],
+    [
+      0.135067,
+      "\b\u001b[4ms\u001b[4my\u001b[m"
+    ],
+    [
+      0.10282,
+      "\b\u001b[4my\u001b[4ms\u001b[m"
+    ],
+    [
+      0.143837,
+      "\b\u001b[4ms\u001b[4mt\u001b[m"
+    ],
+    [
+      0.106668,
+      "\b\u001b[4mt\u001b[4me\u001b[m"
+    ],
+    [
+      0.174742,
+      "\b\u001b[4me\u001b[4mm\u001b[m"
+    ],
+    [
+      0.114315,
+      "\b\b\b\b\b\b\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31my\u001b[m\u001b[1m\u001b[31ms\u001b[m\u001b[1m\u001b[31mt\u001b[m\u001b[1m\u001b[31me\u001b[m\u001b[1m\u001b[31mm\u001b[1m\u001b[31mc\u001b[m\u001b[39m"
+    ],
+    [
+      0.094232,
+      "\b\u001b[1m\u001b[31mc\u001b[1m\u001b[31mt\u001b[m\u001b[39m"
+    ],
+    [
+      0.087422,
+      "\u001b[8D\u001b[m\u001b[32ms\u001b[m\u001b[32my\u001b[m\u001b[32ms\u001b[m\u001b[32mt\u001b[m\u001b[32me\u001b[m\u001b[32mm\u001b[m\u001b[32mc\u001b[m\u001b[32mt\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.095747,
+      "\u001b[1C"
+    ],
+    [
+      0.52653,
+      "\u001b[4ms\u001b[m"
+    ],
+    [
+      0.118119,
+      "\b\u001b[ms\u001b[1C"
+    ],
+    [
+      0.122261,
+      "art tiny-api-2.service\u001b[21D"
+    ],
+    [
+      0.149349,
+      "\u001b[1C"
+    ],
+    [
+      0.21383,
+      "\u001b[1C"
+    ],
+    [
+      0.480219,
+      "\u001b[1C\u001b[4mt\u001b[4mi\u001b[4mn\u001b[4my\u001b[4m-\u001b[4ma\u001b[4mp\u001b[4mi\u001b[4m-\u001b[4m2\u001b[4m.\u001b[4ms\u001b[4me\u001b[4mr\u001b[4mv\u001b[4mi\u001b[4mc\u001b[4me\u001b[m"
+    ],
+    [
+      0.50056,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.051527,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.018851,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[4mh\u001b[mttp localhost:3000/heroes\u001b[25D"
+    ],
+    [
+      0.097544,
+      "\b\u001b[4mh\u001b[4mt\u001b[m"
+    ],
+    [
+      0.144812,
+      "\b\b\u001b[4mh\u001b[4mt\u001b[4mt\u001b[m"
+    ],
+    [
+      0.338727,
+      "\b\b\b\u001b[m\u001b[32mh\u001b[m\u001b[32mt\u001b[m\u001b[32mt\u001b[32mp\u001b[39m\u001b[22C"
+    ],
+    [
+      0.63988,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.260087,
+      "\u001b[34mHTTP\u001b[39;49;00m/\u001b[34m1.1\u001b[39;49;00m \u001b[34m200\u001b[39;49;00m \u001b[36mOK\u001b[39;49;00m\r\n\u001b[36mConnection\u001b[39;49;00m: \u001b[33mkeep-alive\u001b[39;49;00m\r\n\u001b[36mContent-Length\u001b[39;49;00m: \u001b[33m1429\u001b[39;49;00m\r\n\u001b[36mContent-Type\u001b[39;49;00m: \u001b[33mapplication/json; charset=utf-8\u001b[39;49;00m\r\n\u001b[36mDate\u001b[39;49;00m: \u001b[33mWed, 07 Feb 2018 22:08:55 GMT\u001b[39;49;00m\r\n\u001b[36mETag\u001b[39;49;00m: \u001b[33mW/\"595-xtOHIu535v/NlG3GWaL8fQimbeQ\"\u001b[39;49;00m\r\n\u001b[36mX-Powered-By\u001b[39;49;00m: \u001b[33mExpress\u001b[39;49;00m\r\r\n\r\r\n"
+    ],
+    [
+      0.003113,
+      "[\r\n    {\r\n        \u001b[34;01m\"_id\"\u001b[39;49;00m: \u001b[33m\"5a6b85a67082b66f31caa4b3\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"Richard Stallman\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"story\"\u001b[39;49;00m: \u001b[33m\"Richard Matthew Stallman (born March 16, 1953), often known by his initials, rms, is an American free software movement activist and programmer. He campaigns for software to be distributed in a manner such that its users receive the freedoms to use, study, discacay that software. Software that ensures these freedoms is termed free software. Stallman launched the GNU Project, founded the Free Software Foundation, developed the GNU Compiler Collection and GNU Emacs, and wrote the GNU General Public License.\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"title\"\u001b[39;49;00m: \u001b[33m\"The Genius Guru\"\u001b[39;49;00m\r\n    },\r\n    {\r\n        \u001b[34;01m\"_id\"\u001b[39;49;00m: \u001b[33m\"5a6b85a67082b66f31caa4b4\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"Linus Torvald\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"story\"\u001b[39;49;00m: \u001b[33m\"Linus Benedict Torva"
+    ],
+    [
+      2.1e-05,
+      "lds (born December 28, 1969) is a Finnish-American software engineer who is the creator, and for a long time, principal developer of the Linux kernel, which became the kernel for operating systems such as the Linux operating system, Android, and Chrome OS. He also created the distributed revision control system Git and the diving logging and planning software Subsurface. He was honored, along with Shinya Yamanaka, with the 2012 Millennium Technology Prize by the Technology Academy Finland 'in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel'. He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award.\"\u001b[39;49;00m,\r\n        \u001b[34;01m\"title\"\u001b[39;49;00m: \u001b[33m\"The Great Archmage\"\u001b[39;49;00m\r\n    }\r\n]\r\n\r\n"
+    ],
+    [
+      0.031535,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.015478,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[1m\u001b[31mj\u001b[m\u001b[39mournalctl -u heroes-api\u001b[23D"
+    ],
+    [
+      0.138659,
+      "\b\u001b[1m\u001b[31mj\u001b[1m\u001b[31mo\u001b[m\u001b[39m"
+    ],
+    [
+      0.057611,
+      "\b\b\u001b[1m\u001b[31mj\u001b[1m\u001b[31mo\u001b[1m\u001b[31mu\u001b[m\u001b[39m"
+    ],
+    [
+      0.122859,
+      "\b\u001b[1m\u001b[31mu\u001b[1m\u001b[31mr\u001b[m\u001b[39m"
+    ],
+    [
+      0.099314,
+      "\b\u001b[1m\u001b[31mr\u001b[1m\u001b[31mn\u001b[m\u001b[39m"
+    ],
+    [
+      0.156932,
+      "\b\u001b[1m\u001b[31mn\u001b[1m\u001b[31ma\u001b[m\u001b[39m"
+    ],
+    [
+      1.0,
+      "\b\b\b\b\b\b\u001b[m\u001b[32mj\u001b[m\u001b[32mo\u001b[m\u001b[32mu\u001b[m\u001b[32mr\u001b[m\u001b[32mn\u001b[m\u001b[32ma\u001b[32ml\u001b[32mc\u001b[32mt\u001b[32ml\u001b[39m\u001b[14C"
+    ],
+    [
+      0.620042,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.026938,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000294,
+      "-- Logs begin at Sun 2017-10-29 18:14:44 CET, end at Wed 2018-02-07 23:08:58 CET. --\u001b[m\r\nJan 26 21:18:43 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:18:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:18:45 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:18:46 FRL- heroes-api[31589]: Server is listening on port 3000\u001b[m\r\nJan 26 21:18:46 FRL- heroes-api[31589]: Successfully connected to the database\u001b[m\r\nJan 26 21:25:03 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 21:25:03 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:03 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:25:03 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:25:17 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/"
+    ],
+    [
+      6.3e-05,
+      "systemd/s"
+    ],
+    [
+      0.000992,
+      "ystem/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:25:17 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:17 FRL- heroes-api[32701]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:17 FRL- heroes-api[32701]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:18 FRL- heroes-api[32712]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:18 FRL- heroes-api[32712]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: Stopp"
+    ],
+    [
+      5.1e-05,
+      "ed heroes-api.service.\u001b[m\r\nJan 26 21:25:18 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:18 FRL- heroes-api[32723]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:18 FRL- heroes-api[32723]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:19 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:19 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:19 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:19 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:19 FRL- heroes-api[32733]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:19 FRL- heroes-api[32733]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:19 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:19 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:19 FRL- systemd[1]: Stopped heroes-api.service."
+    ],
+    [
+      4.1e-05,
+      "\u001b[m\r\nJan 26 21:25:19 FR"
+    ],
+    [
+      0.000537,
+      "L- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:19 FRL- heroes-api[32746]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:19 FRL- heroes-api[32746]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:20 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:20 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:20 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:25:53 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\n"
+    ],
+    [
+      0.000388,
+      "Jan 26 21:25:54 FRL- heroes-api[341]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\n\u001b[7mlines 1-50\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[KJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\n\u001b[7mlines 2-51\u001b[m\u001b[K"
+    ],
+    [
+      0.135046,
+      "\r\u001b[K"
+    ],
+    [
+      9.7e-05,
+      "Jan 26 21:25:54 FRL- heroes-api[361]: Server is listening on port 3000\u001b[m\r\n\u001b[7mlines 3-52\u001b[m\u001b[K"
+    ],
+    [
+      0.398749,
+      "\r\u001b[KJan 26 21:25:54 FRL- heroes-api[361]: Could not connect to the database. Exiting now...\u001b[m\r\n\u001b[7mlines 4-53\u001b[m\u001b[K"
+    ],
+    [
+      0.172703,
+      "\r\u001b[K"
+    ],
+    [
+      0.000108,
+      "Jan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\n\u001b[7mlines 5-54\u001b[m\u001b[K"
+    ],
+    [
+      0.133656,
+      "\r\u001b[KJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\n\u001b[7mlines 6-55\u001b[m\u001b[K"
+    ],
+    [
+      0.150221,
+      "\r\u001b[KJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\n\u001b[7mlines 7-56\u001b[m\u001b[K"
+    ],
+    [
+      0.151489,
+      "\r\u001b[KJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\n\u001b[7mlines 8-57\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K"
+    ],
+    [
+      0.003241,
+      "...skipping...\r\nJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:25:53 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Could not connect to the database. Exiting now...\u001b[m\r\n"
+    ],
+    [
+      9.2e-05,
+      "Jan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart co"
+    ],
+    [
+      0.000773,
+      "unter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55 "
+    ],
+    [
+      8.1e-05,
+      "FRL- systemd"
+    ],
+    [
+      0.000674,
+      "[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:26:22 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:26:22 FRL- heroes-api[564]: Server is listening on port 3000\u001b"
+    ],
+    [
+      8.3e-05,
+      "[m\r\nJan 26 "
+    ],
+    [
+      0.000661,
+      "21:26:22 FRL- heroes-api[564]: Successfully connected to the database\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:06 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Server is listening on port 3000\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Successfully connected to the database\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 23:01:30 FR"
+    ],
+    [
+      0.000126,
+      "L- systemd"
+    ],
+    [
+      0.000367,
+      "[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\n\u001b[7mlines 44-93/93 (END)\u001b[m\u001b[K"
+    ],
+    [
+      0.138769,
+      "\r\u001b[K"
+    ],
+    [
+      0.004888,
+      "...skipping...\r\nJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:25:53 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job,"
+    ],
+    [
+      0.000106,
+      " restart co"
+    ],
+    [
+      0.001578,
+      "unter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55 "
+    ],
+    [
+      0.000113,
+      "FRL- systemd"
+    ],
+    [
+      0.001519,
+      "[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:26:22 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:26:22 FRL- heroes-api[564]: Server is listening on port 3000\u001b"
+    ],
+    [
+      8.5e-05,
+      "[m\r\nJan 26 "
+    ],
+    [
+      0.001143,
+      "21:26:22 FRL- heroes-api[564]: Successfully connected to the database\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:06 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Server is listening on port 3000\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Successfully connected to the database\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 23:01:30 FR"
+    ],
+    [
+      0.000154,
+      "L- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\n\u001b[7mlines 44-93/93 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K \u001b[KESC\b\b\bESC\u001b[KO\bO"
+    ],
+    [
+      0.001872,
+      "\u001b[KC\bC\u001b[H\u001b[2J\u001b[H\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mt heroes-api.service.\u001b[0m\u001b[m\r\n-api.service.\u001b[m\r\n listening on port 3000\u001b[m\r\n connect to the database. Exiting now...\u001b[m\r\nvice: Service hold-off time over, scheduling restart.\u001b[m\r\nvice: Scheduled restart job, restart counter is at 1.\u001b[m\r\n-api.service.\u001b[m\r\n-api.service.\u001b[m\r\n listening on port 3000\u001b[m\r\n connect to the database. Exiting now...\u001b[m\r\nvice: Service hold-off time over, scheduling restart.\u001b[m\r\nvice: Scheduled restart job, restart counter is at 2.\u001b[m\r\n-api.service.\u001b[m\r\n-api.service.\u001b[m\r\n listening on port 3000\u001b[m\r\n connect to the database. Exiting now...\u001b[m\r\nvice: Service hold-off time over, scheduling restart.\u001b[m\r\nvice: Scheduled restart job, restart counter is at 3.\u001b[m\r\n-api.service.\u001b[m\r\n-api.service.\u001b[m\r\n listening on port 3000\u001b[m\r\n connect to the database. Exiting now...\u001b[m\r\nvice: Service hold-off time over, scheduling restart.\u001b[m\r\nvice: Scheduled restart job, restart counter is at 4.\u001b[m\r\n-api.service.\u001b[m\r\n-api.service.\u001b[m\r\n listening on port 3000\u001b[m\r\n conn"
+    ],
+    [
+      0.000394,
+      "ect to the database. Exiti"
+    ],
+    [
+      0.004536,
+      "ng now...\u001b[m\r\nvice: Service hold-off time over, scheduling restart.\u001b[m\r\nvice: Scheduled restart job, restart counter is at 5.\u001b[m\r\n-api.service.\u001b[m\r\n\u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mvice: Start request repeated too quickly.\u001b[0m\u001b[m\r\n\u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mvice: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\n\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mt heroes-api.service.\u001b[0m\u001b[m\r\n-api.service.\u001b[m\r\n listening on port 3000\u001b[m\r\nlly connected to the database\u001b[m\r\ns-api.service...\u001b[m\r\n-api.service.\u001b[m\r\n\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mmd/system/heroes-api.service:8: Invalid environment assignment, ignoring: /usr/bin/\u001b[0m\u001b[m\r\n\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mmd/system/heroes-api.service:8: Invalid environment assignment, ignoring: /usr/bin/\u001b[0m\u001b[m\r\n\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mmd/system/heroes-api.service:8: Invalid environment assignment, ignoring: /usr/bin/\u001b[0m\u001b[m\r\n\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mmd/system/heroes-api.service:8: Invalid environment assignment, ignoring: /usr/bin/\u001b[0m\u001b[m\r\n-api.service.\u001b[m\r\ns listening on port 3000\u001b[m\r\nully connected to the"
+    ],
+    [
+      0.00011,
+      " database\u001b[m\r\ns-ap"
+    ],
+    [
+      0.000704,
+      "i.service...\u001b[m\r\n-api.service.\u001b[m\r\n\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mmd/system/heroes-api.service:8: Invalid environment assignment, ignoring: /usr/bin/\u001b[0m\u001b[m\r\n\u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mmd/system/heroes-api.service:8: Invalid environment assignment, ignoring: /usr/bin/\u001b[0m\u001b[m\r\n\u001b[7mlines 44-93/93 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K \u001b[KESC\b\b\bESC\u001b[KO\bO"
+    ],
+    [
+      0.001119,
+      "\u001b[KD\bD\u001b[H\u001b[2J\u001b[HJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:25:53 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job,"
+    ],
+    [
+      0.00011,
+      " restart c"
+    ],
+    [
+      0.000879,
+      "ounter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55"
+    ],
+    [
+      0.000115,
+      " FRL- system"
+    ],
+    [
+      0.000874,
+      "d[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:26:22 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:26:22 FRL- heroes-api[564]: Server is listening on port 3000"
+    ],
+    [
+      8.6e-05,
+      "\u001b[m\r\nJan 26"
+    ],
+    [
+      0.000646,
+      " 21:26:22 FRL- heroes-api[564]: Successfully connected to the database\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:06 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Server is listening on port 3000\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Successfully connected to the database\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 23:01:30 F"
+    ],
+    [
+      6.5e-05,
+      "RL- system"
+    ],
+    [
+      0.000207,
+      "d[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\n\u001b[7mlines 44-93/93 (END)\u001b[m\u001b[K"
+    ],
+    [
+      0.200856,
+      "\r\u001b[K \u001b[KESC\b\b\bESC\u001b[KO\bO"
+    ],
+    [
+      0.000808,
+      "\u001b[KD\bD\u001b[H\u001b[2J\u001b[HJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:25:53 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job,"
+    ],
+    [
+      0.000103,
+      " restart c"
+    ],
+    [
+      0.000765,
+      "ounter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55"
+    ],
+    [
+      0.000106,
+      " FRL- system"
+    ],
+    [
+      0.000849,
+      "d[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:26:22 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:26:22 FRL- heroes-api[564]: Server is listening on port 3000"
+    ],
+    [
+      8.7e-05,
+      "\u001b[m\r\nJan 26"
+    ],
+    [
+      0.000734,
+      " 21:26:22 FRL- heroes-api[564]: Successfully connected to the database\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:06 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Server is listening on port 3000\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Successfully connected to the database\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 23:01:30 F"
+    ],
+    [
+      9.4e-05,
+      "RL- system"
+    ],
+    [
+      0.000594,
+      "d[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\n\u001b[7mlines 44-93/93 (END)\u001b[m\u001b[K"
+    ],
+    [
+      0.129031,
+      "\r\u001b[K \u001b[KESC\b\b\bESC"
+    ],
+    [
+      8.1e-05,
+      "\u001b[KO\bO"
+    ],
+    [
+      0.001009,
+      "\u001b[KD\bD\u001b[H\u001b[2J\u001b[HJan 26 21:25:20 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:25:53 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[341]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:54 FRL- heroes-api[361]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: heroes-api.service: Scheduled restart job,"
+    ],
+    [
+      0.000127,
+      " restart c"
+    ],
+    [
+      0.001254,
+      "ounter is \u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:54 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[409]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:55 FRL- heroes-api[429]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:55"
+    ],
+    [
+      0.000176,
+      " FRL- system"
+    ],
+    [
+      0.000576,
+      "d[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:55 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Server is listening on port 3000\u001b[m\r\nJan 26 21:25:56 FRL- heroes-api[447]: Could not connect to the database. Exiting now...\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Service hold-off time over, scheduling res\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: heroes-api.service: Scheduled restart job, restart counter is \u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Start request repeated too quickly.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;39m\u001b[0;1;31m\u001b[0;1;39mheroes-api.service: Failed with result 'start-limit-hit'.\u001b[0m\u001b[m\r\nJan 26 21:25:56 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31mFailed to start heroes-api.service.\u001b[0m\u001b[m\r\nJan 26 21:26:22 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 21:26:22 FRL- heroes-api[564]: Server is listening on port 3000"
+    ],
+    [
+      0.00011,
+      "\u001b[m\r\nJan 26"
+    ],
+    [
+      0.000505,
+      " 21:26:22 FRL- heroes-api[564]: Successfully connected to the database\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 21:55:45 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:06 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 22:34:08 FRL- systemd[1]: Started heroes-api.service.\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Server is listening on port 3000\u001b[m\r\nJan 26 22:34:09 FRL- heroes-api[7597]: Successfully connected to the database\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: Stopping heroes-api.service...\u001b[m\r\nJan 26 23:01:30 F"
+    ],
+    [
+      8.7e-05,
+      "RL- systemd[1]: Stopped heroes-api.service.\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\nJan 26 23:01:30 FRL- systemd[1]: \u001b[0;1;31m\u001b[0;1;39m\u001b[0;1;31m/usr/lib/systemd/system/heroes-api.service:8: Invalid environm\u001b[m\r\n\u001b[7mlines 44-93/93 (END)\u001b[m\u001b[K"
+    ],
+    [
+      1.0,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.006149,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.043239,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.0,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      6.8e-05,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                              \r \r"
+    ],
+    [
+      0.044956,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\u001b[31mokno\u001b[39m@\u001b[34mFRL-\u001b[39m \u001b[33msystem\u001b[39m % \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.950601,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
