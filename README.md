@@ -27,5 +27,21 @@ node server.js
 ```
 
 ## Systemd unit: 
+ 
+You can run tiny-api as a systemd service, just copy one of the unit file from the repo 
+to your distro's systemd.service path:
 
-//TODO  
+  * Arch : 
+  ``` 
+  cp /systemd/tiny-api{x}.service /usr/lib/systemd/system/
+  ```
+  * Other distro : 
+  TO DO 
+
+And run it: 
+
+```
+systemctl start|stop|restart tiny-api{x}.service
+```
+  
+
