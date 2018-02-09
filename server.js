@@ -1,5 +1,7 @@
+require('systemd');
 var express = require('express');
 var bodyParser = require('body-parser');
+var http = require('http');
 
 // create express app
 var app = express();
@@ -37,6 +39,5 @@ require('./app/routes/hero.route.js')(app);
 require('./app/mocks/init.mock.js');
 
 // listen for requests
-app.listen(3000, function(){
-    console.log("Server is listening on port 3000");
-});
+app.listen('systemd'); 
+ console.log('server started via systemd socket.'); 
