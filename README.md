@@ -25,6 +25,7 @@ $ npm install --save
 ```
 node server.js
 ```
+```nodejs``` on ubuntu.
 
 ## Systemd unit: 
  
