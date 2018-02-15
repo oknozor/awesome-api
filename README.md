@@ -1,19 +1,19 @@
-# tiny-api
+# awesome-api
 minimalist api build  with express js to demonstrate the power of systemd
 
 ## Requirement :
 
-To run tiny-api you need nodeJS, npm and Mongodb. 
+To run awsome-api you need nodeJS, npm and Mongodb. 
 
 ## Installation : 
 
 1. clone the repo : 
 ```
-$ git@github.com:oknozor/tiny-api.git
+$ git@github.com:oknozor/awesome-api.git
 ```
 2. init npm : 
 ```
-$ cd tiny-api
+$ cd awesome-api
 $ npm init
 ```
 3. install the dependencies : 
@@ -25,23 +25,27 @@ $ npm install --save
 ```
 node server.js
 ```
+```nodejs``` on ubuntu.
 
 ## Systemd unit: 
  
-You can run tiny-api as a systemd service, just copy one of the unit file from the repo 
+You can run awesome-api as a systemd service, just copy one of the unit file from the repo 
 to your distro's systemd.service path:
 
   * Arch : 
   ``` 
-  cp /systemd/tiny-api{x}.service /usr/lib/systemd/system/
+  cp systemd/awesome-api.service /usr/lib/systemd/system/
   ```
-  * Other distro : 
-  TO DO 
+  * Ubuntu :
+  
+  ``` 
+  cp systemd/awesome-api.service /etc/systemd/system/awesome-api.service
+  ```
 
 And run it: 
 
 ```
-systemctl start|stop|restart tiny-api{x}.service
+systemctl start|stop|restart awesome.service
 ```
   
 
