@@ -1,0 +1,10 @@
+Description= My awesome API
+Wants= mongodb.service
+
+[Service]
+ExecStart= <path to nodejs> <path to server.js>
+StandardOutput=syslog
+SyslogIdentifier=awesome-api
+
+[Install]
+WantedBy=multi-user.target
